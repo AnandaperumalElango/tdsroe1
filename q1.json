@@ -1,4 +1,4 @@
-{
-  "pair": "Promo_Spend-Footfall",
-  "correlation": 0.7421
+{ 
+  "pair": "Promo_Spend-Avg_Basket",
+  "correlation": 0.0484 
 }
